@@ -1,0 +1,23 @@
+body {
+	width: 300%;
+	overflow-x: hidden;
+}
+
+body > section {
+	width: 33.3%;
+	float: left;
+	height: 100%;
+	text-align: center;
+}
+
+#left {
+	background-color: yellow;
+}
+
+#main {
+	background-color: red;
+}
+
+#right {
+	background-color: green;
+}
